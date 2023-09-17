@@ -54,7 +54,7 @@ Note: If a trial account is created, please wait for couple of hours for the AD 
 
 - Create **Microsoft Data Verse** connection in make.powerapps.com
 - Import Data Maps for Business Unit and Teams ([Data Maps](./Data%20Maps))
-- Import the Business Unit and Teams CSV's ([Data CSV's](./Data%20CSV's))
+- Import the Business Unit and Teams CSV's ([Data CSV's](./Data%20CSV's)). Please use the data maps imported in previous point for data imports.
 
  For details on above steps related to data import, please refer the [Steps for Data Import](./Documents/Steps%20For%20Data%20Import.docx) document
 
